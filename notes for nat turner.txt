@@ -143,24 +143,6 @@ Click to access a <a href="https://www.natturnerproject.org/southampton-ot--tria
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">This Note</span> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://unewhavendh.org/transforming/theconfessionsofnatturner/front-matter/editors-notes/">Alexandra Iozzo</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 [/footnote]
 
-____
-
-
-
-
-Text for Readme file
-
-This project engages students as collaborators on open editions of humanities texts. It is designed to encourage rigorous (also, authentic and enjoyable) reading and research experiences for students. The editions you see listed below will grow to incorporate the work of the students who read and investigate them. Under semester headings, you can see editors' notes describing how and why they have contributed to the editions on this site.
-
-The Confessions of Nat Turner
-Written by Thomas Gray in 1831, this open edition reproduces the print edition published by _____ in _____. More specifically, it reproduces the copy held at the University Library of the University of North Carolina, Chapel Hill. This copy was digitized by the library and uploaded to Archive.org in ____. The page images from archive.org, converted to .png files, and uploaded to this GitHub repository. The text of this edition is based on [the digital edition[(________) produced with funding from the National Endowment of the Humanities as part of the Documenting the American South project. Only the most basic structural markup has been retained from this edition for the first iteration, which is encoded with Markdown. So, while the excellent TEI edition displays printing errors in red, this edition does not emphasize them in any way. Minor corrections have been made to errors in transcription and contextual notes, composed by students, have been included as footnotes at the bottom of the document (clicking on the blue superscript number will redirect readers to the note and the blue square at the end will take them back to that spot in the text). Original notes in the book have been reproduced as they appeared (at the bottom of the particular page)
-
-Repeated formatting for notes:
-**Citation:** Lastname, Firstname. “ArticleTitle.” *PublicationTitle* 12, no. 3 (November 2014): 230–50. **Note contributed in [Fall 2021 by Sophie Eskenas](https://maryisbell.github.io/TransformingHumanitiesTexts)**
-
-<a href="https://github.com/MaryIsbell/TransformingHumanitiesTexts/blob/main/Images/confessionsofnat00turn_0011.png" target="_blank"><img src="Images/confessionsofnat00turn_0011.png" alt="page 5" width="25"/></a> Page 5
-
-
 
 
 [^1]:Here, Turner is talking about how he supposedly told other children stories that happened before his lifetime and therefore should have no way of knowing them. From the early stages of his life, Turner’s mind did not seem to work like the other children’s. Thomas Wentworth Higginson was a scholar who was alive at the time the rebellion occurred and wrote an article in 1861, also the start of the civil war, on his interpretations of the events that occurred in 1831. Higginson was a supporter of John Brown, who was an American abolitionist leader. Higginson was also an American Unitarian minister, author, soldier, and abolitionist who was active in the American Abolition movement during the 1840s and 1850s, identifying himself with militant abolitionism. Higginson believed that Nat Turner’s poor mental state was with him throughout his life, not just due to being enslaved. Higginson says, “He had, by his own account, felt himself singled out from childhood for some great work; and he had some peculiar marks on his person, which, joined to his great mental precocity, were enough to occasion, among his youthful companions, a superstitious faith in his gifts and destiny.” It appears that Higginson believes that Turner’s childhood played a significant role in his development of being mentally unstable. **Citation:** Higginson, Thomas Wentworth. “Nat Turner’s Insurrection.” *The Atlantic* November 7, 2011. **Note contributed in [Fall 2021 by Sophie Eskenas](https://maryisbell.github.io/TransformingHumanitiesTexts)**
